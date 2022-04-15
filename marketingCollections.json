@@ -7,7 +7,8 @@
     "marketplaceUrl": "https://magiceden.io/marketplace/famous_fox_federation",
     "websiteUrl": "https://famousfoxes.com/",
     "twitterUrl": "https://twitter.com/famousfoxfed",
-    "discordUrl": "https://discord.com/invite/famousfoxes"
+    "discordUrl": "https://discord.com/invite/famousfoxes",
+    "stakingUrl": ""
   },
   {
     "name": "Solana Monkey Business",
@@ -17,7 +18,8 @@
     "marketplaceUrl": "https://market.solanamonkey.business/",
     "websiteUrl": "https://solanamonkey.business/",
     "twitterUrl": "https://twitter.com/SolanaMBS",
-    "discordUrl": "https://discord.com/invite/solanamonkey"
+    "discordUrl": "https://discord.com/invite/solanamonkey",
+    "stakingUrl": ""
   },
   {
     "name": "DeGods",
@@ -27,6 +29,7 @@
     "marketplaceUrl": "https://magiceden.io/marketplace/degods",
     "websiteUrl": "https://www.degods.com/",
     "twitterUrl": "https://twitter.com/degodsnft",
-    "discordUrl": "https://discord.com/invite/dedao"
+    "discordUrl": "https://discord.com/invite/dedao",
+    "stakingUrl": ""
   }
 ]
