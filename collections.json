@@ -565,18 +565,6 @@
     },
     {
       "chainType": "SOL",
-      "name": "Aurory",
-      "parentCollection": "",
-      "websiteUrl": "https://aurory.io/",
-      "twitterUrl": "https://twitter.com/AuroryProject",
-      "discordUrl": "https://discord.com/invite/aurory",
-      "marketplaceUrl": "https://www.fractal.is/aurory",
-      "stakingUrl": "",
-      "img": "https://arweave.net/XnmNKTJOthZ1PcqSspYLPTjFHGJRCe-lGrapzNM0VVQ",
-      "price": null
-    },
-    {
-      "chainType": "SOL",
       "name": "Kamakura",
       "parentCollection": "",
       "websiteUrl": "http://www.kamakuranft.com/",
@@ -817,18 +805,6 @@
     },
     {
       "chainType": "SOL",
-      "name": "Cyber Ape Age",
-      "parentCollection": "",
-      "websiteUrl": "https://www.cyberapeage.io/",
-      "twitterUrl": "https://twitter.com/CyberApeAge",
-      "discordUrl": "https://discord.gg/GznGwBS9eC",
-      "marketplaceUrl": "https://magiceden.io/marketplace/cyber_ape_age",
-      "stakingUrl": "",
-      "img": "https://bafybeiew4ny7b3u2oeo356hlwr54yo57vtezcfc3qmy46mnjsj44t676uy.ipfs.dweb.link/",
-      "price": null
-    },
-    {
-      "chainType": "SOL",
       "name": "Danerob",
       "parentCollection": "",
       "websiteUrl": "https://danerob.com/?d=2",
@@ -909,18 +885,6 @@
       "marketplaceUrl": "https://magiceden.io/marketplace/gator_squad",
       "stakingUrl": "https://stake.gatorsquadnft.com/",
       "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/gator_squad_pfp_1646691846090.png",
-      "price": null
-    },
-    {
-      "chainType": "SOL",
-      "name": "0th Edition Kami",
-      "parentCollection": "Glyph-Bound",
-      "websiteUrl": "https://www.glyph-bound.com/",
-      "twitterUrl": "https://twitter.com/GlyphBound",
-      "discordUrl": "https://discord.gg/kayac",
-      "marketplaceUrl": "https://magiceden.io/marketplace/the_great_oni_war",
-      "stakingUrl": "",
-      "img": "https://dl.airtable.com/.attachmentThumbnails/9d41661b994e8a4147e48c1d0e954fdd/4fcee6ec",
       "price": null
     },
     {
@@ -1053,18 +1017,6 @@
       "marketplaceUrl": "https://www.fractal.is/madtrooper",
       "stakingUrl": "https://staking.madtrooper.com/",
       "img": "https://www.arweave.net/AESPlT9c4MLT0c8Yvrcww5eYyBjHl4BxxCbCmWB1dGk?ext=png",
-      "price": null
-    },
-    {
-      "chainType": "SOL",
-      "name": "MetaOps",
-      "parentCollection": "",
-      "websiteUrl": "http://metaopsgaming.com/",
-      "twitterUrl": "https://twitter.com/MetaOpsGaming",
-      "discordUrl": "https://discord.gg/nJt3tce873",
-      "marketplaceUrl": "https://www.fractal.is/metaops",
-      "stakingUrl": "",
-      "img": "https://dl.airtable.com/.attachmentThumbnails/f1dc3b29fcd3c3fe0bef2abbe3ff3719/3ef3a381",
       "price": null
     },
     {
@@ -1269,18 +1221,6 @@
       "marketplaceUrl": "https://solanart.io/collections/projecteluune?tab=items",
       "stakingUrl": "",
       "img": "https://solanart.io/_next/image?url=https%3A%2F%2Fdata.solanart.io%2Fimg%2Fcollections%2Fprojecteluunepreview.webp&w=96&q=75",
-      "price": null
-    },
-    {
-      "chainType": "SOL",
-      "name": "Project Eluüne: Eye of Eleriah",
-      "parentCollection": "Project Eluüne",
-      "websiteUrl": "https://www.arrivant.com/",
-      "twitterUrl": "https://twitter.com/ProjectEluune",
-      "discordUrl": "https://discord.com/invite/eluune",
-      "marketplaceUrl": "https://solanart.io/collections/projecteluuneeyeofeleriah?tab=items",
-      "stakingUrl": "",
-      "img": "https://solanart.io/_next/image?url=https%3A%2F%2Fdata.solanart.io%2Fimg%2Fcollections%2Fprojecteluuneeyeofeleriahpreview.webp&w=96&q=75",
       "price": null
     },
     {
@@ -2409,18 +2349,6 @@
       "marketplaceUrl": "https://magiceden.io/marketplace/br1_droid_operatives",
       "stakingUrl": "",
       "img": "https://bafkreiha24p7qscojiel3blh25fudetth6qprpuxeqyqtiffo2sn3eqyzm.ipfs.dweb.link/",
-      "price": null
-    },
-    {
-      "chainType": "SOL",
-      "name": "Cyber Samurai",
-      "parentCollection": "Cyber Samurai",
-      "websiteUrl": "https://www.cybersamurai.co/",
-      "twitterUrl": "https://twitter.com/CyberSamuraiNft",
-      "discordUrl": "https://discord.gg/r2KyxNxv2M",
-      "marketplaceUrl": "https://solanart.io/collections/cybersamurai?tab=items",
-      "stakingUrl": "",
-      "img": "https://solanart.io/_next/image?url=https%3A%2F%2Fdata.solanart.io%2Fimg%2Fcollections%2Fcybersamuraipreview.webp&w=96&q=75",
       "price": null
     },
     {
