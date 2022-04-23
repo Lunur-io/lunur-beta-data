@@ -1825,18 +1825,6 @@
   },
   {
     "chainType": "SOLANA",
-    "name": "0th Edition Kami",
-    "parentCollection": "Glyph-Bound",
-    "websiteUrl": "https://www.glyph-bound.com/",
-    "twitterUrl": "https://twitter.com/GlyphBound",
-    "discordUrl": "https://discord.gg/kayac",
-    "marketplaceUrl": "https://magiceden.io/marketplace/glyphbound",
-    "stakingUrl": "",
-    "img": "https://dl.airtable.com/.attachmentThumbnails/c46e58b56c8142ab27a980fb44fb4a92/a2d8ed3c",
-    "price": "null"
-  },
-  {
-    "chainType": "SOLANA",
     "name": "Glyph-Bound Character Slots",
     "parentCollection": "Glyph-Bound",
     "websiteUrl": "https://www.glyph-bound.com/",
