@@ -3828,6 +3828,18 @@
     "price": "null"
   },
   {
+    "chainType": "LUNA",
+    "name": "Rekt Wolf",
+    "parentCollection": "",
+    "websiteUrl": "https://rektwolf.io/",
+    "twitterUrl": "https://twitter.com/rekt_wolf",
+    "discordUrl": "http://discord.gg/CBQvMtCpm6",
+    "marketplaceUrl": "https://marketplace.luart.io/collections/terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8",
+    "stakingUrl": "",
+    "img": "https://pbs.twimg.com/profile_images/1517299269111324676/iAMbRFtu_400x400.jpg",
+    "price": "null"
+  },
+  {
     "chainType": "SOLANA",
     "name": "Zaysan Raptors",
     "parentCollection": "",
