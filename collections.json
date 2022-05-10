@@ -792,6 +792,18 @@
     "price": "null"
   },
   {
+    "chainType": "TEZOS",
+    "name": "basqunks",
+    "parentCollection": "",
+    "websiteUrl": "https://www.duub.ca/",
+    "twitterUrl": "https://twitter.com/tamccullough",
+    "discordUrl": "https://discord.gg/bN74sQuTYs",
+    "marketplaceUrl": "https://objkt.com/@basqunks",
+    "stakingUrl": "",
+    "img": "https://services.tzkt.io/v1/avatars2/tz1XQ7QFCbNZiv6efCyLKhcfyQA4pG54jaoT",
+    "price": "null"
+  },
+  {
     "chainType": "ETHEREUM",
     "name": "BEANZ Official",
     "parentCollection": "Azuki",
@@ -1182,9 +1194,9 @@
     "websiteUrl": "https://bosscatrocketclub.com/",
     "twitterUrl": "https://twitter.com/BossCatRC",
     "discordUrl": "discord.gg/bosscatrocketclub",
-    "marketplaceUrl": "https://www.jpg.store/collection/bosscatrocketclub",
+    "marketplaceUrl": "https://www.jpg.store/collection/bosscatrocketparts",
     "stakingUrl": "",
-    "img": "https://images.jpgstoreapis.com/b172fed3-73ac-4586-804f-c6ed75b697fb",
+    "img": "https://images.jpgstoreapis.com/QmeaZ5Uiuc5yQDo9C1npcT4obZcz61Lp6mhmYcoRgCLGV4",
     "price": "null"
   },
   {
@@ -1344,6 +1356,18 @@
     "price": "null"
   },
   {
+    "chainType": "TEZOS",
+    "name": "BWOPLE",
+    "parentCollection": "",
+    "websiteUrl": "https://gengoya.notion.site/",
+    "twitterUrl": "https://twitter.com/gengoya_club",
+    "discordUrl": "https://discord.com/invite/gengoya",
+    "marketplaceUrl": "https://objkt.com/collection/KT1RPMeUfo8P8si3sp6PGwTC9zmBUp6YK8YA",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-003/QmV1mqDW6uCJXQWqeqokWwY5TzXwbHwFVKwJPin6sSmoFC/thumb288",
+    "price": "null"
+  },
+  {
     "chainType": "CARDANO",
     "name": "Cabins by The Ape Society",
     "parentCollection": "",
@@ -1449,18 +1473,6 @@
     "marketplaceUrl": "https://www.jpg.store/collection/cardanobits",
     "stakingUrl": "",
     "img": "https://storage.googleapis.com/jpg-store-images/hero-images/cardanobits.webp",
-    "price": "null"
-  },
-  {
-    "chainType": "CARDANO",
-    "name": "Cardano Crocs Club",
-    "parentCollection": "",
-    "websiteUrl": "https://cardanocrocsclub.com/",
-    "twitterUrl": "https://twitter.com/cardanocrocclub?lang=en",
-    "discordUrl": "https://discord.com/invite/PGgqNTvXS3",
-    "marketplaceUrl": "https://www.jpg.store/collection/cardanocrocsclub",
-    "stakingUrl": "",
-    "img": "https://storage.googleapis.com/jpg-store-images/hero-images/cardanocrocsclub.jpeg",
     "price": "null"
   },
   {
@@ -1741,26 +1753,14 @@
   },
   {
     "chainType": "SOLANA",
-    "name": "Cats Cartel",
-    "parentCollection": "",
-    "websiteUrl": "https://catcartel.io/",
-    "twitterUrl": "https://twitter.com/SolanaCatCartel",
-    "discordUrl": "https://discord.com/invite/catcartel",
-    "marketplaceUrl": "https://magiceden.io/marketplace/cat_cartel",
-    "stakingUrl": "https://www.stake.cat/",
-    "img": "https://dl.airtable.com/.attachmentThumbnails/feada15f4870fdc657d200adb50b97fa/737548fb",
-    "price": "null"
-  },
-  {
-    "chainType": "SOLANA",
     "name": "Cets Milk Bottle",
     "parentCollection": "CETS ON CRECK",
     "websiteUrl": "https://www.catsoncrack.xyz/",
     "twitterUrl": "https://www.twitter.com/CetsOnCreck",
     "discordUrl": "https://discord.gg/nY43gd7gMD",
-    "marketplaceUrl": "https://magiceden.io/marketplace/cets_on_creck",
+    "marketplaceUrl": "https://magiceden.io/marketplace/cets_milk_bottle",
     "stakingUrl": "https://stek.cetsoncreck.com/",
-    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/cats_on_crack_pfp_1644850873089.png",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/cets_milk_bottle_pfp_1650651637685.png",
     "price": "null"
   },
   {
@@ -2078,7 +2078,7 @@
   {
     "chainType": "ETHEREUM",
     "name": "Cool Cats NFT",
-    "parentCollection": "",
+    "parentCollection": "Cool Cats NFT",
     "websiteUrl": "http://coolcatsnft.com/",
     "twitterUrl": "https://twitter.com/coolcatsnft",
     "discordUrl": "https://discord.gg/X6A4AXrKaR",
@@ -2286,7 +2286,7 @@
     "websiteUrl": "https://cryptounicorns.fun/",
     "twitterUrl": "https://twitter.com/crypto_unicorns",
     "discordUrl": "https://discord.gg/xSAAjcEWRU",
-    "marketplaceUrl": "https://opensea.io/collection/crypto-unicorns-market",
+    "marketplaceUrl": "https://opensea.io/collection/crypto-unicorns-land-market",
     "stakingUrl": "",
     "img": "https://lh3.googleusercontent.com/jLi7QyLxZLXAeAqtKuecs5ebhGpDwWG6iI_EsfeXanpCCjCnDtqW9Db4b2ZAO0poqfIgBuGdYmyJCFL-c9wVJFIjJUZ2Lmna13kTDg=s0",
     "price": "null"
@@ -2421,6 +2421,18 @@
     "marketplaceUrl": "https://solanart.io/collections/cyberfrogs?tab=items",
     "stakingUrl": "https://cyberfrogs.io/staking/",
     "img": "https://solanart.io/_next/image?url=https%3A%2F%2Fdata.solanart.io%2Fimg%2Fcollections%2Fcyberfrogspreview.webp&w=96&q=75",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "Cyber Gecko Gang",
+    "parentCollection": "",
+    "websiteUrl": "https://cybergeckogang.xyz/",
+    "twitterUrl": "https://twitter.com/CyberGeckoGang",
+    "discordUrl": "https://discord.gg/cybergeckogang",
+    "marketplaceUrl": "https://objkt.com/collection/cybergeckogang",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/cgg.png",
     "price": "null"
   },
   {
@@ -2832,6 +2844,18 @@
     "price": "null"
   },
   {
+    "chainType": "TEZOS",
+    "name": "Degen Foxes",
+    "parentCollection": "TezosDegenClub",
+    "websiteUrl": "https://tezosdegenclub.com/",
+    "twitterUrl": "https://twitter.com/TezosDegenClub",
+    "discordUrl": "https://discord.gg/RN9bc5jUat",
+    "marketplaceUrl": "https://objkt.com/collection/degen_foxes",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/degen_foxes.png",
+    "price": "null"
+  },
+  {
     "chainType": "ETHEREUM",
     "name": "DEGEN TOONZ COLLECTION",
     "parentCollection": "",
@@ -3012,6 +3036,18 @@
     "price": "null"
   },
   {
+    "chainType": "TEZOS",
+    "name": "Distributed Consciousness",
+    "parentCollection": "",
+    "websiteUrl": "https://distributedconsciousness.xyz/",
+    "twitterUrl": "https://twitter.com/distribconsc",
+    "discordUrl": "",
+    "marketplaceUrl": "https://objkt.com/collection/distribconsc",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/distributedconsciousness.jpeg",
+    "price": "null"
+  },
+  {
     "chainType": "SOLANA",
     "name": "Divine Dogs",
     "parentCollection": "",
@@ -3021,6 +3057,18 @@
     "marketplaceUrl": "https://magiceden.io/marketplace/divinedogs",
     "stakingUrl": "https://stake.divinedogsnft.com/farmer",
     "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/divinedogs_pfp_1651089036873.png",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "Dogamí",
+    "parentCollection": "Dogamí",
+    "websiteUrl": "https://dogami.com/",
+    "twitterUrl": "https://twitter.com/Dogami",
+    "discordUrl": "https://discord.gg/dogami",
+    "marketplaceUrl": "https://objkt.com/collection/dogami",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/dogami.png",
     "price": "null"
   },
   {
@@ -3552,18 +3600,6 @@
     "price": "null"
   },
   {
-    "chainType": "NEAR",
-    "name": "Freaky Elves NFT Collection",
-    "parentCollection": "",
-    "websiteUrl": "https://nft.spin.fi/",
-    "twitterUrl": "https://twitter.com/spin_fi",
-    "discordUrl": "https://discord.gg/GNdBEEj8ZP",
-    "marketplaceUrl": "https://paras.id/collection/spin-nft-contract.near",
-    "stakingUrl": "",
-    "img": "https://paras-cdn.imgix.net/bafkreid2zne2yfhy43bskanoqk4j5ss5bmxutq32x3crcnfuruw3miei34?w=800&auto=format,compress",
-    "price": "null"
-  },
-  {
     "chainType": "CARDANO",
     "name": "FudBuddies",
     "parentCollection": "",
@@ -3624,6 +3660,18 @@
     "price": "null"
   },
   {
+    "chainType": "TEZOS",
+    "name": "Gap Threads",
+    "parentCollection": "",
+    "websiteUrl": "https://nft.gap.com/",
+    "twitterUrl": "https://twitter.com/gap",
+    "discordUrl": "https://discord.gg/gapthreads",
+    "marketplaceUrl": "https://objkt.com/collection/gapthreads",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/GapThreads.png",
+    "price": "null"
+  },
+  {
     "chainType": "SOLANA",
     "name": "Gates of Imaginarium",
     "parentCollection": "",
@@ -3666,9 +3714,9 @@
     "websiteUrl": "https://generousrobots.com/",
     "twitterUrl": "https://www.twitter.com/GenerousRobots",
     "discordUrl": "https://www.discord.gg/mgk3A7PD86",
-    "marketplaceUrl": "https://magiceden.io/marketplace/space_robots",
+    "marketplaceUrl": "https://magiceden.io/marketplace/generous_robots_dao",
     "stakingUrl": "https://staking.generousrobots.com/",
-    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/space_robots_pfp_1648332378789.png",
+    "img": "https://dl.airtable.com/.attachmentThumbnails/4969303980ff319c1caf845e0e7efc7e/dff552de",
     "price": "null"
   },
   {
@@ -3825,6 +3873,18 @@
     "marketplaceUrl": "https://www.jpg.store/collection/goattribe",
     "stakingUrl": "",
     "img": "https://images.jpgstoreapis.com/QmQ94Fw6PkZH8xy4gvhVmPYRy5yyWBqMyvCz9is8PzTcwV",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "GOGOs",
+    "parentCollection": "",
+    "websiteUrl": "https://gogos.tez.page/",
+    "twitterUrl": "https://twitter.com/gogos_tez",
+    "discordUrl": "",
+    "marketplaceUrl": "https://objkt.com/collection/gogos",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/gogo.jpg",
     "price": "null"
   },
   {
@@ -4010,7 +4070,7 @@
   {
     "chainType": "LUNA",
     "name": "HellHounds",
-    "parentCollection": "",
+    "parentCollection": "HellCats",
     "websiteUrl": "https://www.hellcatsnft.com/",
     "twitterUrl": "https://twitter.com/HellCatsNFT",
     "discordUrl": "https://discord.com/invite/hellcatsnft",
@@ -4094,7 +4154,7 @@
   {
     "chainType": "ETHEREUM",
     "name": "Impostors Genesis Aliens",
-    "parentCollection": "",
+    "parentCollection": "Impostors Genesis",
     "websiteUrl": "https://impostors.gg/",
     "twitterUrl": "https://twitter.com/PlayImpostors",
     "discordUrl": "https://discord.gg/impostors",
@@ -4106,7 +4166,7 @@
   {
     "chainType": "ETHEREUM",
     "name": "Impostors Genesis UFOs",
-    "parentCollection": "",
+    "parentCollection": "Impostors Genesis",
     "websiteUrl": "https://impostors.gg/",
     "twitterUrl": "https://discord.gg/impostors",
     "discordUrl": "",
@@ -4557,6 +4617,18 @@
     "marketplaceUrl": "https://magiceden.io/marketplace/lotus_gang_nft",
     "stakingUrl": "",
     "img": "https://dl.airtable.com/.attachmentThumbnails/5183df07a5b80ad546e765748575bed2/b2fe7fd0",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "Lucréce",
+    "parentCollection": "",
+    "websiteUrl": "",
+    "twitterUrl": "https://twitter.com/deslucrece",
+    "discordUrl": "https://discord.gg/lucrece",
+    "marketplaceUrl": "https://objkt.com/@lucrece",
+    "stakingUrl": "",
+    "img": "https://bafybeificxlhbj2ykjhexyen2ifsdiojr4vy5adramr7dr3sc7pnn335ly.ipfs.infura-ipfs.io/",
     "price": "null"
   },
   {
@@ -5185,18 +5257,6 @@
   },
   {
     "chainType": "CARDANO",
-    "name": "Mocossi - ITOs",
-    "parentCollection": "Mocossi",
-    "websiteUrl": "https://mocossi.com/",
-    "twitterUrl": "https://twitter.com/officialmocossi",
-    "discordUrl": "discord.gg/officialmocossi",
-    "marketplaceUrl": "https://www.jpg.store/collection/mocossi",
-    "stakingUrl": "",
-    "img": "https://storage.googleapis.com/jpg-store-images/hero-images/mocossi.webp",
-    "price": "null"
-  },
-  {
-    "chainType": "CARDANO",
     "name": "Mocossi - Magic Pills",
     "parentCollection": "Mocossi",
     "websiteUrl": "https://mocossi.com/",
@@ -5796,6 +5856,18 @@
     "price": "null"
   },
   {
+    "chainType": "TEZOS",
+    "name": "NEONZ",
+    "parentCollection": "",
+    "websiteUrl": "https://neonz.xyz/",
+    "twitterUrl": "https://twitter.com/Sutuverse",
+    "discordUrl": "https://discord.gg/wGsYFFDu7E",
+    "marketplaceUrl": "https://objkt.com/collection/neonz",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/neonz.jpg",
+    "price": "null"
+  },
+  {
     "chainType": "FLOW",
     "name": "NFL ALL DAY",
     "parentCollection": "",
@@ -6081,6 +6153,18 @@
     "marketplaceUrl": "https://opensea.io/collection/otherdeed",
     "stakingUrl": "",
     "img": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s0",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "Ottez",
+    "parentCollection": "",
+    "websiteUrl": "https://ottez.xyz/",
+    "twitterUrl": "https://twitter.com/otteznft",
+    "discordUrl": "https://discord.gg/Ottez",
+    "marketplaceUrl": "https://objkt.com/collection/ottez",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/ottez.png",
     "price": "null"
   },
   {
@@ -6432,6 +6516,30 @@
     "price": "null"
   },
   {
+    "chainType": "TEZOS",
+    "name": "PRJKTNEON",
+    "parentCollection": "PRJKTNEON",
+    "websiteUrl": "https://prjktneon.xyz/",
+    "twitterUrl": "https://twitter.com/PRJKTNEON",
+    "discordUrl": "https://discord.gg/M6PdaXZDs8",
+    "marketplaceUrl": "https://objkt.com/collection/prjktneon",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/prjktneon.png",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "PRJKTNEON FILES",
+    "parentCollection": "PRJKTNEON",
+    "websiteUrl": "https://prjktneon.xyz/",
+    "twitterUrl": "https://twitter.com/PRJKTNEON",
+    "discordUrl": "https://discord.gg/M6PdaXZDs8",
+    "marketplaceUrl": "https://objkt.com/collection/prjktneonfiles",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/prjktneon_files.png",
+    "price": "null"
+  },
+  {
     "chainType": "ETHEREUM",
     "name": "ProbablyNothing",
     "parentCollection": "",
@@ -6645,6 +6753,18 @@
     "marketplaceUrl": "https://opensea.io/collection/ragnarok-meta",
     "stakingUrl": "",
     "img": "https://lh3.googleusercontent.com/YlcQvN-frHPgKaH5R3qMsKipRTHhaKmVOzCHWA0JG-bDQ6y8stEVcj5Hu0kF1l6aADm9jR1ttC1sjexKGAh_WevEQTW9AOBauLlO=s0",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "randomly common skeles",
+    "parentCollection": "",
+    "websiteUrl": "https://commonskeles.xyz/",
+    "twitterUrl": "https://twitter.com/jjjjjjjjjjohn",
+    "discordUrl": "https://discord.com/invite/gRVhCMcSNzz",
+    "marketplaceUrl": "https://objkt.com/collection/rcs",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/rcs.png",
     "price": "null"
   },
   {
@@ -7373,18 +7493,6 @@
     "parentCollection": "",
     "websiteUrl": "https://www.solsanctuary.io/",
     "twitterUrl": "https://twitter.com/BearsReloaded",
-    "discordUrl": "http://discord.gg/solsanctuary",
-    "marketplaceUrl": "https://solanart.io/collections/solbears?tab=items",
-    "stakingUrl": "",
-    "img": "https://solanart.io/_next/image?url=https%3A%2F%2Fdata.solanart.io%2Fimg%2Fcollections%2Fsolbearspreview.webp&w=96&q=75",
-    "price": "null"
-  },
-  {
-    "chainType": "SOLANA",
-    "name": "SolBears",
-    "parentCollection": "",
-    "websiteUrl": "https://www.solsanctuary.io/",
-    "twitterUrl": "https://twitter.com/BearsReloaded",
     "discordUrl": "https://discord.com/solsanctuary",
     "marketplaceUrl": "https://solanart.io/collections/solbears?tab=items",
     "stakingUrl": "",
@@ -8016,6 +8124,54 @@
     "price": "null"
   },
   {
+    "chainType": "TEZOS",
+    "name": "Tez Dozen",
+    "parentCollection": "",
+    "websiteUrl": "https://tezdozen.xyz/",
+    "twitterUrl": "https://twitter.com/TezDoZen",
+    "discordUrl": "https://discord.com/invite/5zkrspaKp4",
+    "marketplaceUrl": "https://objkt.com/collection/tezdozen",
+    "stakingUrl": "",
+    "img": "https://tezdozen.xyz/images/logo400.jpg",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "TezosDegenClub",
+    "parentCollection": "TezosDegenClub",
+    "websiteUrl": "https://tezosdegenclub.com/",
+    "twitterUrl": "https://twitter.com/TezosDegenClub",
+    "discordUrl": "https://discord.gg/RN9bc5jUat",
+    "marketplaceUrl": "https://objkt.com/collection/tezosdegenclub",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/tezosdegenclub.png",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "Tezotopia",
+    "parentCollection": "",
+    "websiteUrl": "https://tezotopia.com/",
+    "twitterUrl": "https://twitter.com/gifdotgames",
+    "discordUrl": "https://discord.gg/tezotopia",
+    "marketplaceUrl": "https://tezotopia.com/app/marketplace/tezotops",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/tezotopia.png",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "Tezzardz",
+    "parentCollection": "",
+    "websiteUrl": "https://www.tezzardz.xyz/",
+    "twitterUrl": "https://twitter.com/tezzardz",
+    "discordUrl": "https://discord.gg/ex5BDgx8Jc",
+    "marketplaceUrl": "https://objkt.com/collection/tezzardz",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/tezzardz.png",
+    "price": "null"
+  },
+  {
     "chainType": "CARDANO",
     "name": "The Ape Dao",
     "parentCollection": "",
@@ -8061,18 +8217,6 @@
     "marketplaceUrl": "https://opensea.io/collection/the-art-of-seasons",
     "stakingUrl": "",
     "img": "https://lh3.googleusercontent.com/wRpNOK_6qKV-cdvagJbo-7KBtHpU64X2IQXzEvyx8gTIy3MRlzyAuCJ87Hjf3wErneE8vrViwDLLz3fdyTSYEAmAMug1SqdGe7p9djQ=s130",
-    "price": "null"
-  },
-  {
-    "chainType": "ETHEREUM",
-    "name": "The Art of Seasons",
-    "parentCollection": "",
-    "websiteUrl": "https://www.artofseasons.co/",
-    "twitterUrl": "https://twitter.com/DirtyRobotWorks",
-    "discordUrl": "https://discord.gg/renga",
-    "marketplaceUrl": "https://opensea.io/collection/the-art-of-seasons",
-    "stakingUrl": "",
-    "img": "https://lh3.googleusercontent.com/wRpNOK_6qKV-cdvagJbo-7KBtHpU64X2IQXzEvyx8gTIy3MRlzyAuCJ87Hjf3wErneE8vrViwDLLz3fdyTSYEAmAMug1SqdGe7p9djQ=s0",
     "price": "null"
   },
   {
@@ -8629,18 +8773,6 @@
   },
   {
     "chainType": "CARDANO",
-    "name": "Ugly Bros: The Definitive",
-    "parentCollection": "",
-    "websiteUrl": "https://uglybrosnft.com/",
-    "twitterUrl": "https://twitter.com/UglybrosNFT",
-    "discordUrl": "https://discord.gg/uglybros",
-    "marketplaceUrl": "https://www.jpg.store/collection/uglybros-thedefinitive",
-    "stakingUrl": "",
-    "img": "https://images.jpgstoreapis.com/0814e479-8d73-4338-8b78-2a79635578b6",
-    "price": "null"
-  },
-  {
-    "chainType": "CARDANO",
     "name": "UnboundedEarth",
     "parentCollection": "",
     "websiteUrl": "https://unbounded.earth/",
@@ -9045,6 +9177,18 @@
     "marketplaceUrl": "https://magiceden.io/marketplace/zoom",
     "stakingUrl": "https://zaysanraptors.io/staking",
     "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/zoom_pfp_1647728487044.gif",
+    "price": "null"
+  },
+  {
+    "chainType": "TEZOS",
+    "name": "ZIGGURATS",
+    "parentCollection": "",
+    "websiteUrl": "https://ziggurats.xyz/",
+    "twitterUrl": "https://twitter.com/mikeshinoda",
+    "discordUrl": "https://www.discord.gg/mikeshinoda",
+    "marketplaceUrl": "https://objkt.com/collection/ziggurats",
+    "stakingUrl": "",
+    "img": "https://assets.objkt.media/file/assets-002/collection-logos/ziggurats.png",
     "price": "null"
   },
   {
