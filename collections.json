@@ -7525,6 +7525,18 @@
   },
   {
     "chainType": "SOLANA",
+    "name": "SOLFUL",
+    "parentCollection": "",
+    "websiteUrl": "https://solful.io/",
+    "twitterUrl": "https://twitter.com/SolfulNFT",
+    "discordUrl": "https://discord.gg/TNhbYV8Swp",
+    "marketplaceUrl": "https://magiceden.io/marketplace/solful",
+    "stakingUrl": "",
+    "img": "https://bafkreihv3wiz3zenl6rqibzqx7ov3sb5ppuz5uftw47eglqyaixa3op3ai.ipfs.dweb.link/",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
     "name": "SOLgods",
     "parentCollection": "",
     "websiteUrl": "https://thefracture.art/",
@@ -9238,17 +9250,5 @@
     "stakingUrl": "",
     "img": "https://lh3.googleusercontent.com/fIMi-xohZrCuA16mfi4ZbP013HbTkz-p6bkLraFtJPved2gBDovkQa91LmwULp0tUX2RpjUYl4aYjcTC2AQyt2q8TERofZsH39kx=s0",
     "price": "null"
-  },
-  {
-    "chainType": "SOLANA",
-    "name": "SOLFUL",
-    "parentCollection": "",
-    "websiteUrl": "https://solful.io/",
-    "twitterUrl": "https://twitter.com/SolfulNFT",
-    "discordUrl": "https://discord.gg/TNhbYV8Swp",
-    "marketplaceUrl": "https://magiceden.io/marketplace/solful",
-    "stakingUrl": "",
-    "img": "https://bafkreihv3wiz3zenl6rqibzqx7ov3sb5ppuz5uftw47eglqyaixa3op3ai.ipfs.dweb.link/",
-    "price": "null"
-  },
+  }
 ]
