@@ -2179,7 +2179,7 @@
     "twitterUrl": "https://www.twitter.com/CursedLabs",
     "discordUrl": "https://www.discord.gg/CursedLabs",
     "marketplaceUrl": "https://magiceden.io/marketplace/cozycorners",
-    "stakingUrl": "",
+    "stakingUrl": "https://stake.cursedlabs.io/",
     "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/cozycorners_pfp_1647319437657.png",
     "price": "null"
   },
@@ -2395,7 +2395,7 @@
     "twitterUrl": "https://www.twitter.com/CursedLabs",
     "discordUrl": "https://www.discord.gg/CursedLabs",
     "marketplaceUrl": "https://magiceden.io/marketplace/curedlabs",
-    "stakingUrl": "",
+    "stakingUrl": "https://stake.cursedlabs.io/",
     "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/curedlabs_pfp_1648605578173.png",
     "price": "null"
   },
@@ -2407,7 +2407,7 @@
     "twitterUrl": "https://www.twitter.com/CursedLabs",
     "discordUrl": "https://www.discord.gg/CursedLabs",
     "marketplaceUrl": "https://magiceden.io/marketplace/cursedtoken",
-    "stakingUrl": "",
+    "stakingUrl": "https://stake.cursedlabs.io/",
     "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/cursedtoken_pfp_1646431722591.png",
     "price": "null"
   },
