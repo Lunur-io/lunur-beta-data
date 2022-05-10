@@ -1129,18 +1129,6 @@
   },
   {
     "chainType": "SOLANA",
-    "name": "Boryoku Dragonz",
-    "parentCollection": "Boryoku Dragonz",
-    "websiteUrl": "https://boryokudragonz.io/",
-    "twitterUrl": "https://twitter.com/BoryokuDragonz",
-    "discordUrl": "https://discord.gg/jSUWCYm3rF",
-    "marketplaceUrl": "https://magiceden.io/marketplace/boryoku_dragonz",
-    "stakingUrl": "",
-    "img": "https://boryokudragonz.io/dragonz-ani.gif",
-    "price": "null"
-  },
-  {
-    "chainType": "SOLANA",
     "name": "Boryoku Dragonz Eggz",
     "parentCollection": "Boryoku Dragonz",
     "websiteUrl": "https://boryokudragonz.io/",
@@ -3189,18 +3177,6 @@
     "marketplaceUrl": "https://opensea.io/collection/e-code",
     "stakingUrl": "",
     "img": "https://lh3.googleusercontent.com/FnDtyuZLgSmSlgu5SL0avymi7sE9CyrA3-aoA0XYCBVUeF6JNXYhNEo_itO04uYuE0e56HGwvh-pUTkzG94LnI6cp-0hXkb5XktIbBU=s130",
-    "price": "null"
-  },
-  {
-    "chainType": "ETHEREUM",
-    "name": "Elysium Code",
-    "parentCollection": "",
-    "websiteUrl": "https://www.elysiumshell.xyz/",
-    "twitterUrl": "https://twitter.com/elysium_system",
-    "discordUrl": "https://discord.gg/elysiumsystem",
-    "marketplaceUrl": "https://opensea.io/collection/e-code",
-    "stakingUrl": "",
-    "img": "https://lh3.googleusercontent.com/tUHJXuSJEioP5doOvU2ksJeilnouZo-pUxF0Cs8CJYmmZ5-VVuORW7DmuRAIYh3JOoYEUvR3U2qzDWC40VnETnEKDdT-AX1xs06mSfw=s130",
     "price": "null"
   },
   {
