@@ -6,18 +6,6 @@
     "websiteUrl": "https://www.glyph-bound.com/",
     "twitterUrl": "https://twitter.com/GlyphBound",
     "discordUrl": "https://discord.gg/kayac",
-    "marketplaceUrl": "https://magiceden.io/marketplace/the_great_oni_war",
-    "stakingUrl": "",
-    "img": "https://dl.airtable.com/.attachmentThumbnails/9d41661b994e8a4147e48c1d0e954fdd/4fcee6ec",
-    "price": "null"
-  },
-  {
-    "chainType": "SOLANA",
-    "name": "0th Edition Kami",
-    "parentCollection": "Glyph-Bound",
-    "websiteUrl": "https://www.glyph-bound.com/",
-    "twitterUrl": "https://twitter.com/GlyphBound",
-    "discordUrl": "https://discord.gg/kayac",
     "marketplaceUrl": "https://magiceden.io/marketplace/glyphbound",
     "stakingUrl": "",
     "img": "https://dl.airtable.com/.attachmentThumbnails/c46e58b56c8142ab27a980fb44fb4a92/a2d8ed3c",
@@ -8193,6 +8181,18 @@
     "marketplaceUrl": "https://magiceden.io/marketplace/the_emergence_scrolls",
     "stakingUrl": "",
     "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/the_emergence_scrolls_pfp_1650038216676.gif",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "The Great Oni War",
+    "parentCollection": "Glyph-Bound",
+    "websiteUrl": "https://www.glyph-bound.com/",
+    "twitterUrl": "https://twitter.com/GlyphBound",
+    "discordUrl": "https://discord.gg/kayac",
+    "marketplaceUrl": "https://magiceden.io/marketplace/the_great_oni_war",
+    "stakingUrl": "",
+    "img": "https://dl.airtable.com/.attachmentThumbnails/9d41661b994e8a4147e48c1d0e954fdd/4fcee6ec",
     "price": "null"
   },
   {
