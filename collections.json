@@ -9250,5 +9250,138 @@
     "stakingUrl": "",
     "img": "https://lh3.googleusercontent.com/fIMi-xohZrCuA16mfi4ZbP013HbTkz-p6bkLraFtJPved2gBDovkQa91LmwULp0tUX2RpjUYl4aYjcTC2AQyt2q8TERofZsH39kx=s0",
     "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Cubist Collective",
+    "parentCollection": "",
+    "websiteUrl": "https://cubistcollective.com/",
+    "twitterUrl": "https://twitter.com/CubistNFT",
+    "discordUrl": "https://discord.com/invite/CpXMJJnEAy",
+    "marketplaceUrl": "https://magiceden.io/marketplace/cubistnft",
+    "stakingUrl": "https://staking.cubistcollective.com/",
+    "img": "https://dl.airtable.com/.attachmentThumbnails/c642aad027ea2e63393f597fd02ab8a1/b1645707",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "The Bridged",
+    "parentCollection": "The Fracture",
+    "websiteUrl": "https://thefracture.art/",
+    "twitterUrl": "https://twitter.com/TheFracture_",
+    "discordUrl": "https://discord.gg/solgods",
+    "marketplaceUrl": "https://magiceden.io/marketplace/the_bridged",
+    "stakingUrl": "",
+    "img": "https://bafybeicy2tiqupjvolrglj5yxeyewu3ashdgttyil423myka2x4wilkvbq.ipfs.dweb.link/",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "The Fracture/Omnium",
+    "parentCollection": "The Fracture",
+    "websiteUrl": "https://thefracture.art/",
+    "twitterUrl": "https://twitter.com/TheFracture_",
+    "discordUrl": "https://www.discord.gg/solgods",
+    "marketplaceUrl": "https://magiceden.io/marketplace/the_fracture",
+    "stakingUrl": "",
+    "img": "https://i.imgur.com/43eVVSV.jpeg",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "The Fracture: SOLgods Prestige Collection",
+    "parentCollection": "The Fracture",
+    "websiteUrl": "https://thefracture.art/",
+    "twitterUrl": "https://twitter.com/TheFracture_",
+    "discordUrl": "https://www.discord.gg/solgods",
+    "marketplaceUrl": "https://magiceden.io/marketplace/solgodsprestigecollection",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/solgodsprestigecollection_pfp_1650565532947.png",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "SOLGods Enigma Collection",
+    "parentCollection": "The Fracture",
+    "websiteUrl": "https://thefracture.art/",
+    "twitterUrl": "https://twitter.com/TheFracture_",
+    "discordUrl": "https://www.discord.gg/solgods",
+    "marketplaceUrl": "https://magiceden.io/marketplace/solgods_enigma_collection",
+    "stakingUrl": "",
+    "img": "https://dl.airtable.com/.attachmentThumbnails/1c9618a42066ad357f7347825b5a9ac0/1861c85f",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Sacred Symbols / Fracture",
+    "parentCollection": "The Fracture",
+    "websiteUrl": "https://thefracture.art/",
+    "twitterUrl": "https://twitter.com/TheFracture_",
+    "discordUrl": "https://www.discord.gg/solgods",
+    "marketplaceUrl": "https://magiceden.io/marketplace/sacred_symbols_fracture",
+    "stakingUrl": "",
+    "img": "https://i.imgur.com/y8jejzE.jpg",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "SOLgods An Ode To Art",
+    "parentCollection": "The Fracture",
+    "websiteUrl": "https://thefracture.art/",
+    "twitterUrl": "https://twitter.com/TheFracture_",
+    "discordUrl": "https://www.discord.gg/solgods",
+    "marketplaceUrl": "https://magiceden.io/marketplace/solgodsanodetoart",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/solgodsanodetoart_pfp_1647973872473.jpeg",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "BAPE Social Experiments",
+    "parentCollection": "BAPE Social Club",
+    "websiteUrl": "https://boredapesocial.club/",
+    "twitterUrl": "https://twitter.com/BAPESocialClub",
+    "discordUrl": "https://discord.gg/bapesocialclub",
+    "marketplaceUrl": "https://magiceden.io/marketplace/bored_ape_social_experiments",
+    "stakingUrl": "https://www.bapesocial.club/jungle",
+    "img": "https://dl.airtable.com/.attachments/9b3886a6088261fb07a62b2c4a688f7b/06f08dc4/baseME.png",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "BAPE Social Club",
+    "parentCollection": "BAPE Social Club",
+    "websiteUrl": "https://boredapesocial.club/",
+    "twitterUrl": "https://twitter.com/BAPESocialClub",
+    "discordUrl": "https://discord.gg/bapesocialclub",
+    "marketplaceUrl": "https://magiceden.io/marketplace/bored_ape_social_club",
+    "stakingUrl": "https://www.bapesocial.club/jungle",
+    "img": "https://dl.airtable.com/.attachmentThumbnails/8e398bb4f5e26593bad85f9277cfe166/381f36b7",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "BAPE Science Club",
+    "parentCollection": "BAPE Social Club",
+    "websiteUrl": "https://boredapesocial.club/",
+    "twitterUrl": "https://twitter.com/BAPESocialClub",
+    "discordUrl": "https://discord.gg/bapesocialclub",
+    "marketplaceUrl": "https://magiceden.io/marketplace/bape_science_club",
+    "stakingUrl": "https://lab.bapesocial.club/",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/bape_science_club_pfp_1645577381147.gif",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "TheClub",
+    "parentCollection": "",
+    "websiteUrl": "https://www.theclubnft.xyz/",
+    "twitterUrl": "https://twitter.com/theclubnft",
+    "discordUrl": "https://discord.gg/theclubnft",
+    "marketplaceUrl": "https://magiceden.io/marketplace/the_club",
+    "stakingUrl": "",
+    "img": "https://dl.airtable.com/.attachmentThumbnails/ac94129a4600ae03d2b6a3c1f215d9ca/ad778e6c",
+    "price": "null"
   }
+]
 ]
