@@ -1,16 +1,19 @@
 [
   {
     "name": "Famous Fox Federation",
+    "img": "https://ipfs.io/ipfs/Qmetu9eyf7jxE9cNV9MYMWborQBGHqurt1MvD2LjwDcumy",
     "backgroundImgUrl": "https://assets-global.website-files.com/606f63778ec431ec1b930f1f/61ae1de0dcdadc2dae83ecfb_Screenshot%202021-12-06%20at%2015.27.19.png",
     "theme": "DARK"
   },
   {
     "name": "Solana Monkey Business",
+    "img": "https://i.imgur.com/bMH6qNc.png",
     "backgroundImgUrl": "https://lh3.googleusercontent.com/m4s_XM2EL9vfh2--jzWeVmeaoXTGB_kQAuLbEPsTABqb7jsdAR7HO4NhcTatEZwYT6_E4Vx4vEro2KBut5Xkk8wxsYDSm6UsLg2b9A=w1400-k",
     "theme": "LIGHT"
   },
   {
     "name": "DeGods",
+    "img": "https://i.imgur.com/fO3tI1t.png",
     "backgroundImgUrl": "https://www.asiacryptotoday.com/wp-content/uploads/2022/02/DeGods.jpg",
     "theme": "DARK"
   }
