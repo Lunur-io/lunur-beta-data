@@ -9382,5 +9382,66 @@
     "stakingUrl": "",
     "img": "https://dl.airtable.com/.attachmentThumbnails/ac94129a4600ae03d2b6a3c1f215d9ca/ad778e6c",
     "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "The Northman",
+    "parentCollection": "",
+    "websiteUrl": "",
+    "twitterUrl": "https://www.twitter.com/TheNorthmanNFT",
+    "discordUrl": "https://www.discord.gg/thenorthman",
+    "marketplaceUrl": "https://magiceden.io/marketplace/the_northman",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/the_northman_pfp_1651495290938.jpeg",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Kyoudai Spirits",
+    "parentCollection": "",
+    "websiteUrl": "https://www.kyoud.ai/",
+    "twitterUrl": "https://twitter.com/kyoudailabs",
+    "discordUrl": "https://discord.com/invite/kyoudai",
+    "marketplaceUrl": "https://magiceden.io/marketplace/kyoudai_spirits",
+    "stakingUrl": "",
+    "img": "https://dl.airtable.com/.attachmentThumbnails/4328ee80b02f240cfb213215574fe40f/e27d730d",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "GhostKidDAO",
+    "parentCollection": "",
+    "websiteUrl": "",
+    "twitterUrl": "https://www.twitter.com/GhostKidDAO",
+    "discordUrl": "https://www.discord.gg/VJBjvvaGGh",
+    "marketplaceUrl": "https://magiceden.io/marketplace/ghost_kid_dao",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ghost_kid_dao_pfp_1652184233083.gif",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Reptilian Renegade (Lizards)",
+    "parentCollection": "",
+    "websiteUrl": "https://www.reptilianrenegade.com/",
+    "twitterUrl": "https://www.twitter.com/ReptilianReneg",
+    "discordUrl": "https://www.discord.gg/reptilianrenegade",
+    "marketplaceUrl": "https://magiceden.io/marketplace/lizards",
+    "stakingUrl": "https://staking.reptilianrenegade.com/",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/lizards_pfp_1652278474802.png",
+    "price": "null"
+  },
+  {
+    "chainType": "ETHEREUM",
+    "name": "The Metapreneurs",
+    "parentCollection": "",
+    "websiteUrl": "http://themetapreneurs.com/",
+    "twitterUrl": "https://twitter.com/metapreneur_nft",
+    "discordUrl": "https://discord.gg/metapreneurs",
+    "marketplaceUrl": "https://opensea.io/collection/themetapreneursofficial",
+    "stakingUrl": "",
+    "img": "https://lh3.googleusercontent.com/Ouq6Ml6oI_jME-phqnaQhpOMF-6FDkQ4UC2vnijNH-Dmy5iG2-1n-mPMYTEqSzyCVDe6q1JlHZWxM8-haBA4Tk-fra5V0RWpAvoY4g=s0",
+    "price": "null"
   }
+]
 ]
