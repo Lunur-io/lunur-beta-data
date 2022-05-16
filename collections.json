@@ -9442,5 +9442,77 @@
     "stakingUrl": "",
     "img": "https://lh3.googleusercontent.com/Ouq6Ml6oI_jME-phqnaQhpOMF-6FDkQ4UC2vnijNH-Dmy5iG2-1n-mPMYTEqSzyCVDe6q1JlHZWxM8-haBA4Tk-fra5V0RWpAvoY4g=s0",
     "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Junkiez",
+    "parentCollection": "",
+    "websiteUrl": "https://junkiez.co/",
+    "twitterUrl": "https://www.twitter.com/JunkiezCo",
+    "discordUrl": "https://www.discord.gg/junkiez",
+    "marketplaceUrl": "https://magiceden.io/marketplace/junkiez",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/junkiez_pfp_1651631507560.png",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "OG Flowers Underworld",
+    "parentCollection": "Sol Flowers",
+    "websiteUrl": "https://www.solflowers.io/",
+    "twitterUrl": "https://twitter.com/solflowers_io",
+    "discordUrl": "https://discord.com/invite/stat798",
+    "marketplaceUrl": "https://magiceden.io/marketplace/og_flowers_underworld",
+    "stakingUrl": "",
+    "img": "https://i.imgur.com/hc0wQNY.png",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "SOL Flowers",
+    "parentCollection": "Sol Flowers",
+    "websiteUrl": "https://www.solflowers.io/",
+    "twitterUrl": "https://twitter.com/solflowers_io",
+    "discordUrl": "https://discord.com/invite/stat798",
+    "marketplaceUrl": "https://magiceden.io/marketplace/genesispass",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/genesispass_pfp_1649077353811.png",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "3D Flowers",
+    "parentCollection": "Sol Flowers",
+    "websiteUrl": "https://www.solflowers.io/",
+    "twitterUrl": "https://twitter.com/solflowers_io",
+    "discordUrl": "https://discord.com/invite/stat798",
+    "marketplaceUrl": "https://magiceden.io/marketplace/3d_flowers",
+    "stakingUrl": "",
+    "img": "https://dl.airtable.com/.attachmentThumbnails/93ccd80bf0ee24da685aea2daebc0d12/27f5d6d3",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Sol Flowers Mothers Day",
+    "parentCollection": "Sol Flowers",
+    "websiteUrl": "https://www.solflowers.io/",
+    "twitterUrl": "https://twitter.com/solflowers_io",
+    "discordUrl": "https://discord.com/invite/stat798",
+    "marketplaceUrl": "https://magiceden.io/marketplace/sol_flowers_mothers_day",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/sol_flowers_mothers_day_pfp_1652624518313.png",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "SOL Daddies",
+    "parentCollection": "",
+    "websiteUrl": "https://www.soldaddies.com/",
+    "twitterUrl": "https://www.twitter.com/SolDaddies",
+    "discordUrl": "https://www.discord.gg/c479m7syxB",
+    "marketplaceUrl": "https://magiceden.io/marketplace/sol_daddies",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/sol_daddies_pfp_1652643033394.gif",
+    "price": "null"
   }
 ]
