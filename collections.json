@@ -9625,18 +9625,6 @@
   },
   {
     "chainType": "SOLANA",
-    "name": "SolPunks",
-    "parentCollection": "",
-    "websiteUrl": "https://solpunksdao.io/",
-    "twitterUrl": "https://twitter.com/PunksOnSolana",
-    "discordUrl": "https://discord.com/invite/solpunks",
-    "marketplaceUrl": "https://magiceden.io/marketplace/solpunks",
-    "stakingUrl": "",
-    "img": "https://bafkreiaoifjzhau3clwdbtap7mekvdardfg25xl24kbexc7syvws35ifk4.ipfs.dweb.link/",
-    "price": "null"
-  },
-  {
-    "chainType": "SOLANA",
     "name": "Degenerate Donkeys",
     "parentCollection": "",
     "websiteUrl": "",
