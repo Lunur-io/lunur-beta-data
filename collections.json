@@ -9411,11 +9411,11 @@
     "chainType": "SOLANA",
     "name": "GhostKidDAO",
     "parentCollection": "",
-    "websiteUrl": "",
+    "websiteUrl": "https://www.ghostkid.io/",
     "twitterUrl": "https://www.twitter.com/GhostKidDAO",
     "discordUrl": "https://www.discord.gg/VJBjvvaGGh",
     "marketplaceUrl": "https://magiceden.io/marketplace/ghost_kid_dao",
-    "stakingUrl": "",
+    "stakingUrl": "https://gkd-staking.web.app/",
     "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ghost_kid_dao_pfp_1652184233083.gif",
     "price": "null"
   },
