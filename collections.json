@@ -9451,7 +9451,7 @@
     "twitterUrl": "https://www.twitter.com/JunkiezCo",
     "discordUrl": "https://www.discord.gg/junkiez",
     "marketplaceUrl": "https://magiceden.io/marketplace/junkiez",
-    "stakingUrl": "",
+    "stakingUrl": "https://staking.junkiez.co/",
     "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/junkiez_pfp_1651631507560.png",
     "price": "null"
   },
@@ -10725,6 +10725,18 @@
     "marketplaceUrl": "https://magiceden.io/marketplace/yaku_x",
     "stakingUrl": "https://app.yakushima.io/",
     "img": "https://bafybeigaq3x3iz3v24qjnv26ql7c7fstll6reolqbxkpncpbpa23bovgva.ipfs.dweb.link/",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "NFTrees Solana",
+    "parentCollection": "",
+    "websiteUrl": "https://nftreessolana.com/",
+    "twitterUrl": "https://twitter.com/NFTreesOnSol",
+    "discordUrl": "https://discord.com/invite/treedao",
+    "marketplaceUrl": "https://magiceden.io/marketplace/nftrees_solana",
+    "stakingUrl": "",
+    "img": "https://pbs.twimg.com/profile_images/1437707791334998017/0oxy-zEY_400x400.png",
     "price": "null"
   }
 ]
