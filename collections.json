@@ -10966,5 +10966,101 @@
     "stakingUrl": "",
     "img": "https://lh3.googleusercontent.com/3y3MythDHRH46bNeSGSwYo3pK8J_3ngKMUAwPyvl5cdKn9JiLSL46KWxZtEVo7V8ILraMEANA5RB-r_LrKmwq0qZebpa1pHqybJ7gQ=s0",
     "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Boon AIO",
+    "parentCollection": "",
+    "websiteUrl": "",
+    "twitterUrl": "https://www.twitter.com/BoonAIO",
+    "discordUrl": "https://www.discord.gg/boonaio",
+    "marketplaceUrl": "https://magiceden.io/marketplace/boonaio",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/boonaio_pfp_1653441610318.jpeg",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Fantastic Flippers",
+    "parentCollection": "",
+    "websiteUrl": "https://fantasticflippers.xyz/",
+    "twitterUrl": "https://twitter.com/FantasticFlipp",
+    "discordUrl": "https://t.co/w3RE4MEuN2",
+    "marketplaceUrl": "https://magiceden.io/marketplace/fantastic_flippers",
+    "stakingUrl": "",
+    "img": "https://pbs.twimg.com/profile_images/1533115679544516609/sLuA-h3c_400x400.jpg",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Genesis Watcher 守望者",
+    "parentCollection": "",
+    "websiteUrl": "https://genesiswatcher.io/",
+    "twitterUrl": "https://twitter.com/GenesisWatcher",
+    "discordUrl": "https://discord.gg/genesiswatcher",
+    "marketplaceUrl": "https://magiceden.io/marketplace/genesis_watcher",
+    "stakingUrl": "",
+    "img": "https://bafybeibiwgxzxx4pkoed7cnh3gyx2of5c5y5ipqkv6mpj2rqc4mcx662a4.ipfs.dweb.link/",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Great Goats",
+    "parentCollection": "",
+    "websiteUrl": "https://greatgoats.io/",
+    "twitterUrl": "https://twitter.com/greatgoatsnft",
+    "discordUrl": "https://discord.com/invite/greatgoats",
+    "marketplaceUrl": "https://magiceden.io/marketplace/great__goats?activeTab=items",
+    "stakingUrl": "",
+    "img": "https://dl.airtable.com/.attachmentThumbnails/b3bc1733c8b49865d70b79160acef873/86af3e32",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Lost Boy Club",
+    "parentCollection": "",
+    "websiteUrl": "",
+    "twitterUrl": "https://twitter.com/LOSTBOY_CLUB",
+    "discordUrl": "https://discord.gg/NGgeK8rhzd",
+    "marketplaceUrl": "https://magiceden.io/marketplace/lostboyclub",
+    "stakingUrl": "",
+    "img": "https://bafybeihoeht6lw53mwwnc2m4cz7xtnena45us3qvbbbnddv3at2nxz44aq.ipfs.dweb.link/",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "SHROUD",
+    "parentCollection": "",
+    "websiteUrl": "",
+    "twitterUrl": "https://twitter.com/ShroudedNFT",
+    "discordUrl": "https://discord.gg/dMdaUBgG2Q",
+    "marketplaceUrl": "https://magiceden.io/marketplace/shroud",
+    "stakingUrl": "",
+    "img": "https://bafybeiazx7p7grhaanvjdkp4acftummszcwcwanonvb2hwyldpaf6uy2tq.ipfs.dweb.link/",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "SOL CLI",
+    "parentCollection": "",
+    "websiteUrl": "",
+    "twitterUrl": "https://www.twitter.com/SOL_Scripts",
+    "discordUrl": "https://www.discord.gg/solscripts",
+    "marketplaceUrl": "https://magiceden.io/marketplace/sol_cli",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/sol_cli_pfp_1653227790336.png",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Zombie Braw",
+    "parentCollection": "",
+    "websiteUrl": "",
+    "twitterUrl": "https://www.twitter.com/BbPirat",
+    "discordUrl": "https://www.discord.gg/ddRjWca",
+    "marketplaceUrl": "https://magiceden.io/marketplace/zombiebraw?activeTab=items",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/zombiebraw_pfp_1654477085124.gif",
+    "price": "null"
   }
 ]
