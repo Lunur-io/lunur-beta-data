@@ -11062,5 +11062,29 @@
     "stakingUrl": "",
     "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/zombiebraw_pfp_1654477085124.gif",
     "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Vandal City",
+    "parentCollection": "",
+    "websiteUrl": "https://www.vandalcity.io/",
+    "twitterUrl": "https://twitter.com/VandalCityCorp",
+    "discordUrl": "https://discord.com/invite/vandalcity",
+    "marketplaceUrl": "https://magiceden.io/marketplace/vandal_city",
+    "stakingUrl": "",
+    "img": "https://i.imgur.com/6bLLFMF.png",
+    "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Susanoo",
+    "parentCollection": "",
+    "websiteUrl": "https://susanoo.io/",
+    "twitterUrl": "https://www.twitter.com/Susanoo50",
+    "discordUrl": "https://www.discord.gg/susanoo",
+    "marketplaceUrl": "https://magiceden.io/marketplace/susanoo",
+    "stakingUrl": "",
+    "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/susanoo_pfp_1653459914092.gif",
+    "price": "null"
   }
 ]
