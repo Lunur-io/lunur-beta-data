@@ -1,12 +1,12 @@
 {
-  "show": false,
-  "name": "Okay Bears",
-  "img": "https://bafkreidgfsdjx4nt4vctch73hcchb3pkiwic2onfw5yr4756adchogk5de.ipfs.dweb.link/",
-  "websiteUrl": "https://www.okaybears.com/",
-  "twitterUrl": "https://twitter.com/okaybears",
-  "discordUrl": "https://discord.gg/bearwithus",
-  "marketplaceUrl": "https://magiceden.io/marketplace/okay_bears",
-  "stakingUrl": null,
-  "description": "Okay Bears is a culture shift. A clean collection of 10,000 diverse bears building a virtuous community that will transcend the internet into the real world.",
-  "backgroundImgUrl": "https://i.imgur.com/kX4L01t.png"
+  "show": true
+  "name": "DeGods",
+  "img": "https://i.imgur.com/fO3tI1t.png",
+  "websiteUrl": "https://www.degods.com",
+  "twitterUrl": "https://twitter.com/degodsnft",
+  "discordUrl": "https://discord.com/invite/dedao",
+  "marketplaceUrl": "https://magiceden.io/marketplace/degods",
+  "stakingUrl": "https://stake.degods.com/",
+  "description": "A collection of degenerates, punks, and misfits. Gods of the metaverse & masters of our own universe. DeGods can be converted to DeadGods with DUST.",
+  "backgroundImgUrl": "https://i.imgur.com/AhYqWlS.jpg"
 }
