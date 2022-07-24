@@ -11806,5 +11806,17 @@
     "stakingUrl": "",
     "img": "https://img-cdn.magiceden.dev/rs:fill:170:170:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/zeninaio_pfp_1657378957487.png",
     "price": "null"
+  },
+  {
+    "chainType": "SOLANA",
+    "name": "Gorillae Gang",
+    "parentCollection": "",
+    "websiteUrl": "https://linktr.ee/GorillaeNFT",
+    "twitterUrl": "https://www.twitter.com/GorillaeNFT",
+    "discordUrl": "https://discord.gg/WwVJQdD8vV",
+    "marketplaceUrl": "https://magiceden.io/marketplace/gorillae",
+    "stakingUrl": "https://stake.gorillae.io/",
+    "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/gorillae_pfp_1650537483836.gif",
+    "price": "null"
   }
 ]
