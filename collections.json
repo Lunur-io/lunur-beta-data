@@ -11822,7 +11822,7 @@
   {
     "chainType": "ETHEREUM",
     "name": "Feline Fiendz",
-    "parentCollection": "",
+    "parentCollection": "Feline Fiendz",
     "websiteUrl": "https://fiendz.io/",
     "twitterUrl": "https://twitter.com/FelineFiendz",
     "discordUrl": "discord.gg/felinefiendz",
