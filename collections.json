@@ -11818,5 +11818,17 @@
     "stakingUrl": "https://stake.gorillae.io/",
     "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/gorillae_pfp_1650537483836.gif",
     "price": "null"
+  },
+  {
+    "chainType": "ETHEREUM",
+    "name": "Feline Fiendz",
+    "parentCollection": "",
+    "websiteUrl": "https://fiendz.io/",
+    "twitterUrl": "https://twitter.com/FelineFiendz",
+    "discordUrl": "discord.gg/felinefiendz",
+    "marketplaceUrl": "https://opensea.io/collection/felinefiendznft",
+    "stakingUrl": "",
+    "img": "https://lh3.googleusercontent.com/5uj0X--87WO060UfkLyVF3aGlz-WxKIlkrhUvCM6IypB32V8Y1PgXqNu6LgMNt72B30GmVmAi8M6t6dZ327AxhZjGgc0VsrLFixCjA=s0",
+    "price": "null"
   }
 ]
